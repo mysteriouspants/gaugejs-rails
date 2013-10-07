@@ -8,4 +8,4 @@ Using Sprockets, just include the library:
      *= require gauge.min.js # minified? we got that, too
      */
 
-Uses gauge.js version `6dca672377a4d09db6c3cd14605a2454251acc7d`.
+Uses gauge.js version `ae0e45a4bdee00c2286d061efa1c21d97d34599a`.
